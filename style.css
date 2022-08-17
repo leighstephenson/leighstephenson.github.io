@@ -1,0 +1,75 @@
+   
+Css:
+
+body {
+  background-color: pink;
+  font-family: Arial, Helvetica, sans-serif; 
+  padding: 20px; 
+  
+}
+
+h1 {
+  color: white;
+  font-size: 35px;
+  font-family: Helvetica, Arial, Sans-Serif;
+  outline: 3px solid black;
+  outline-offset: 6px;
+  background-image: linear-gradient(#c3bfe0, purple, #2f237a);
+  text-align: center;
+}
+  
+  h2 {
+    color: purple;
+    text-decoration-line: underline;
+    font-weight: bold;
+  }
+ 
+  
+  
+}
+
+h3 {
+  color: #4232a8;
+  font-family: Arial, Helvetica;
+  
+  
+}
+
+ul{ 
+  color: #342885; 
+}
+
+div{
+  background-color: #c3bfe0;
+   outline: 3px solid black;
+  outline-offset: 2px
+  
+  
+}
+
+
+img {
+ background-color: white;
+ outline: 3px solid black;
+  outline-offset: 2px;
+  max-width: 200px;
+  
+ 
+}
+
+
+button {
+  color: white;
+  margin-top: 20px;
+  line-height: 60px;
+  font-weight: bold;
+  padding: 0 40px;
+  background-image: linear-gradient(#c3bfe0, purple, #2f237a);
+  border: none;
+  outline: 2px solid black;
+  outline-offset: 6px;
+  text-align: center;
+}
+button:hover {
+  background-image: linear-gradient(#2f237a, purple ,#c3bfe0);
+}
