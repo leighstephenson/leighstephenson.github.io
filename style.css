@@ -30,7 +30,7 @@ h1:hover {
   }
  
  h2:hover {
-  background-image: linear-gradient(#2f237a, purple ,#c3bfe0);
+  color: blue;
 }
 
 h3 {
