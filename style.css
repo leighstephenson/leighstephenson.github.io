@@ -27,7 +27,9 @@ h1:hover {
     font-weight: bold;
   }
  
-  
+ h2:hover {
+  color: #c3bfe0;
+}
 
 h3 {
   color: black;
