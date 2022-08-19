@@ -59,6 +59,11 @@ img {
   max-width: 200px;
 }
 
+footer {
+  color:purple;
+  text-size: 9px;
+}
+
 script {color: white;
   font-size: 35px;
   font-family: Verdana, Helvetica, Sans-serif;
