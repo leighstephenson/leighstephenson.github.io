@@ -22,15 +22,15 @@ h1:hover {
 
 
   h2 {
-    color: purple;
+    color: white;
     text-decoration-line: underline;
     font-style: italic;
     font-weight: bold;
-    text-shadow: 2px 2px #ff0000;
+    text-shadow: 2px 2px purple;
   }
  
  h2:hover {
-  color: blue;
+  color: black;
 }
 
 h3 {
