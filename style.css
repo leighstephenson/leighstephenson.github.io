@@ -62,6 +62,12 @@ img {
 footer {
   color:purple;
   text-size: 9px;
+  padding: 50px;
+  text-align: center;
+}
+
+a:hover {
+  color: green;
 }
 
 script {color: white;
