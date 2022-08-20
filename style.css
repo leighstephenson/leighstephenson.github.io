@@ -41,6 +41,7 @@ h3 {
 ul{ 
   color: black;
   font-family: Verdana, Helvetica, Sans-serif;
+  line-height: 1.5;
 }
 
 
@@ -70,18 +71,8 @@ a:hover {
   color: green;
 }
 
-script {color: white;
-  font-size: 35px;
-  font-family: Verdana, Helvetica, Sans-serif;
-  outline: 3px solid black;
-  outline-offset: 6px;
-  background-image: linear-gradient(#c3bfe0, purple, #2f237a);
-  text-align: center;
-}
 
-script:hover {
-  background-image: linear-gradient(#2f237a, purple ,#c3bfe0);
-}
+
 
 
 
